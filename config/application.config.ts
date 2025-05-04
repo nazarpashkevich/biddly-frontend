@@ -16,7 +16,7 @@ export const ApplicationConfig = {
         },
         {
           title: 'Sign Up',
-          href: '/home'
+          href: '/auth/registration'
         },
       ]
     },
