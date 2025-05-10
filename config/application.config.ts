@@ -4,7 +4,7 @@ export const ApplicationConfig = {
       items: [
         {
           title: 'Home',
-          href: '/home'
+          href: '/'
         },
         {
           title: 'Contact',
@@ -34,7 +34,7 @@ export const ApplicationConfig = {
           title: 'Account',
           items: [
             { title: 'My Account', href: '/account' },
-            { title: 'Login / Register', href: '/account' },
+            { title: 'Login / Register', href: '/auth/login' },
             { title: 'Cart', href: '/account' },
             { title: 'Wishlist', href: '/account' },
             { title: 'Shop', href: '/account' },
